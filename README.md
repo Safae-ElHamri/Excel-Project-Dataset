@@ -1,4 +1,5 @@
 📊 Dashboard Features
+
 The Excel Dashboard includes:
 🔹 1. Average Income by Gender & Purchase Status
 A 3D column chart shows:
@@ -26,6 +27,7 @@ Education
 Region
 
 🖼 Dashboard Screenshot
+
 📌 Tools Used
 Microsoft Excel
 Data Cleaning
